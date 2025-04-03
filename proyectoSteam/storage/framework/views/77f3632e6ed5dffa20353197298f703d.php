@@ -1,0 +1,1 @@
+<h1>Hola Mundo default</h1><?php /**PATH C:\Users\Xavier\Desktop\DAW2n\M07\laravel\steam\resources\views\partials\default.blade.php ENDPATH**/ ?>
